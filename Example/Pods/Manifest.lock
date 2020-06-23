@@ -1,0 +1,16 @@
+PODS:
+  - CXCPodTest (0.1.0)
+
+DEPENDENCIES:
+  - CXCPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  CXCPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CXCPodTest: aa3f8997d17e3bbbb7b343d00ff95fa4104bd865
+
+PODFILE CHECKSUM: c23630cd91dc7cc4dcb13813566f4003d21d0040
+
+COCOAPODS: 1.9.1

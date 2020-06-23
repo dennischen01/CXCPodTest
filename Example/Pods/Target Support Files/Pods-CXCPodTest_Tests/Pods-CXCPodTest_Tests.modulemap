@@ -1,0 +1,6 @@
+framework module Pods_CXCPodTest_Tests {
+  umbrella header "Pods-CXCPodTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
